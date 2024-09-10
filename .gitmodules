@@ -1,0 +1,3 @@
+[submodule "BooksAppBackend"]
+	path = BooksAppBackend
+	url = https://github.com/waelantar/SocialBookApp.git
